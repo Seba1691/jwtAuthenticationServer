@@ -2,11 +2,11 @@
 
 Runs an Authentication Server based on JWT using spring-security.
 
-##Run
+## Run
 
 mvn spring-boot:run
 
-##TODO:
+## TODO:
 
 * Adding roles
 * Adding refresh token
